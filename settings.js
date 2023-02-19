@@ -11,29 +11,29 @@ global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.pres
 global.doc2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
 global.doc3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 global.doc4 = 'application/zip'
-global.doc5 = 'application/pdf'
+global.doc5 = 'application/pdf'/
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur owner name
-global.ytname = "CYBER JOHN" //ur yt chanel name
-global.socialm = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur github or insta name
+global.owner = ['94773930125'] //ur owner number
+global.ownername = "𝙠𝙖𝙫𝙞𝙮𝙖 𝙮𝙩 𝙗𝙤𝙩 " //ur owner name
+global.ytname = "𝙠𝙖𝙫𝙞𝙮𝙖 𝙮𝙩" //ur yt chanel name
+global.socialm = "𝙠𝙖𝙫𝙞𝙮𝙖 𝙮𝙩 𝙗𝙤𝙩" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 //ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න
 global.session = "YXF5RWYwZ0I=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
-global.botname = 'QUEEN -X' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
+global.ownernomer https= "94773930125" //ur number
+global.premium = ['94773930125'] //ur premium number
+global.botname = '𝙠𝙖𝙫𝙞𝙮𝙖 𝙮𝙩 𝙗𝙤𝙩' //ur bot name
+global.linkz = "https://chat.whatsapp.com/JkEW6AKKHMz5ef79PGFVBx" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UC8NCNSiu-92lRPQBp4XIEVQ" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur sticker watermark packname
-global.author = "ＱＵＥＥＮ-Ｘ ＢＯＴ\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
-global.wm = "ＱＵＥＥＮ-Ｘ ＢＯＴ." //ur watermark
+global.packname = "" //ur sticker watermark packname
+global.author = "𝙠𝙖𝙫𝙞𝙮𝙖 𝙮𝙩 𝙗𝙤𝙩\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
+global.wm = "𝙠𝙖𝙫𝙞𝙮𝙖 𝙮𝙩 𝙗𝙤𝙩." //ur watermark
 
 // Other
 global.sessionName = 'session'
