@@ -1,0 +1,154 @@
+--------- beginning of main
+02-18 16:58:48.015 19263 19263 I AppCompatDelegate: The Activity's LayoutInflater already has a Factory installed so we can not install AppCompat's
+02-18 16:58:48.023 19263 19263 I DecorView[]:  old windowMode:0 new windoMode:1
+02-18 16:58:48.031 19263 19263 E trajectoryType: ╔════════════════════════════════════════════════════════════════════
+02-18 16:58:48.031 19263 19263 E trajectoryType: ║ Thread: main
+02-18 16:58:48.032 19263 19263 E trajectoryType: ╟────────────────────────────────────────────────────────────────────
+02-18 16:58:48.032 19263 19263 E trajectoryType: ║ PUserTrajectory.postEventReport  (PUserTrajectory.java:41)
+02-18 16:58:48.032 19263 19263 E trajectoryType: ╟────────────────────────────────────────────────────────────────────
+02-18 16:58:48.032 19263 19263 E trajectoryType: ║ 11
+02-18 16:58:48.032 19263 19263 E trajectoryType: ╚════════════════════════════════════════════════════════════════════
+02-18 16:58:48.035 19263 19263 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+02-18 16:58:48.036 19263 19263 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+02-18 16:58:48.036 19263 19263 E PRETTYLOGGER: ╔════════════════════════════════════════════════════════════════════
+02-18 16:58:48.036 19263 19263 E PRETTYLOGGER: ║ Thread: main
+02-18 16:58:48.036 19263 19263 E PRETTYLOGGER: ╟────────────────────────────────────────────────────────────────────
+02-18 16:58:48.036 19263 19263 E PRETTYLOGGER: ║ LauncherActivity.onCreate  (LauncherActivity.java:120)
+02-18 16:58:48.036 19263 19263 E PRETTYLOGGER: ╟────────────────────────────────────────────────────────────────────
+02-18 16:58:48.036 19263 19263 E PRETTYLOGGER: ║ uuid=12dc7bc85b7adb69
+02-18 16:58:48.036 19263 19263 E PRETTYLOGGER: ╚════════════════════════════════════════════════════════════════════
+02-18 16:58:48.037 19263 19263 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+02-18 16:58:48.037 19263 19350 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+02-18 16:58:48.038 19263 19350 E VersionHelper: getRomVersion 
+02-18 16:58:48.039 19263 19350 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+02-18 16:58:48.039 19263 19350 E reader_network_req: https://osservice.vmos.com/gather/trajectory/save?s=7c765cf3bbb9376c860ff01f11eb2075&k=eb759cd6d8e975ec29b999b743123721&auth_ver=2&n=1676719728036&u=12dc7bc85b7adb69&c=glb&v=100031&rv=0 POST http/1.1
+02-18 16:58:48.039 19263 19350 E reader_network_req: timestamp: 1676719728039
+02-18 16:58:48.039 19263 19350 E reader_network_req: thread: 28308488
+02-18 16:58:48.039 19263 19350 E reader_network_req: Content-Type: application/json; charset=UTF-8
+02-18 16:58:48.039 19263 19350 E reader_network_req: Content-Length: 71
+02-18 16:58:48.039 19263 19350 E reader_network_req: androidApi: 1.0.31
+02-18 16:58:48.039 19263 19350 E reader_network_req: Access-Token: 
+02-18 16:58:48.039 19263 19350 E reader_network_req: User-ID: 12dc7bc85b7adb69
+02-18 16:58:48.039 19263 19350 E reader_network_req: Content-Type: application/json; charset=utf-8
+02-18 16:58:48.039 19263 19350 E reader_network_req: requestBody: {"msg":"Df4Dffgw8sY928ePCyoYZdNEPvDEKR s\n","createTime":1676719728032}
+02-18 16:58:48.039 19263 19350 E reader_network_req: https://osservice.vmos.com/gather/trajectory/save?s=7c765cf3bbb9376c860ff01f11eb2075&k=eb759cd6d8e975ec29b999b743123721&auth_ver=2&n=1676719728036&u=12dc7bc85b7adb69&c=glb&v=100031&rv=0?msg=Df4Dffgw8sY928ePCyoYZdNEPvDEKR s
+02-18 16:58:48.039 19263 19350 E reader_network_req: &createTime=1676719728032
+02-18 16:58:48.039 19263 19350 E reader_network_req: REQUEST END (71-byte body)
+02-18 16:58:48.039 19263 19350 E reader_network_req:  
+02-18 16:58:48.401 19263 19263 W com.vmos.glb: resources.arsc in APK '/data/app/com.apkpure.aegon-3tGGSNs_LrkW6mPU9sfgeA==/base.apk' is compressed.
+02-18 16:58:49.109 19263 19352 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+02-18 16:58:49.109 19263 19263 E socket  : ╔════════════════════════════════════════════════════════════════════
+02-18 16:58:49.109 19263 19263 E socket  : ║ Thread: main
+02-18 16:58:49.109 19263 19263 E socket  : ╟────────────────────────────────────────────────────────────────────
+02-18 16:58:49.110 19263 19352 E VersionHelper: getRomVersion 
+02-18 16:58:49.111 19263 19352 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+02-18 16:58:49.112 19263 19352 E reader_network_req: https://osservice.vmos.com/gather/apps/save?s=611218cc3767deedd20a62432cead692&k=eb759cd6d8e975ec29b999b743123721&auth_ver=2&n=1676719729108&u=12dc7bc85b7adb69&c=glb&v=100031&rv=0 POST http/1.1
+02-18 16:58:49.112 19263 19352 E reader_network_req: timestamp: 1676719729111
+02-18 16:58:49.112 19263 19352 E reader_network_req: thread: 258143729
+02-18 16:58:49.112 19263 19352 E reader_network_req: Content-Type: application/json; charset=UTF-8
+02-18 16:58:49.112 19263 19352 E reader_network_req: Content-Length: 3839
+02-18 16:58:49.112 19263 19352 E reader_network_req: androidApi: 1.0.31
+02-18 16:58:49.112 19263 19352 E reader_network_req: Access-Token: 
+02-18 16:58:49.112 19263 19352 E reader_network_req: User-ID: 12dc7bc85b7adb69
+02-18 16:58:49.112 19263 19352 E reader_network_req: Content-Type: application/json; charset=utf-8
+02-18 16:58:49.112 19263 19352 E reader_network_req: requestBody: {"msg":"D3DhH75picrHXvjSWuGFuvXv6yJKcl9dTGU2iNGbHZf4TMgfxaRCwu5icwZRHcKOwxL5z7l4eekJ\nEjeOdMxFESV28LYT0F3xwxWS3gHKkiSYkZ22WtQA74ETOOkaHcwc/EzaFcm3yAKK6miuWcCRWyCG\nk4vKdfndIeYnruYAtbiuLC2yCwJjxCKgR9FATpK9uVbRcVqqm38wEQJ/5XNQrrIGyTtdTfyDeOhO\n9ATaReEL64HezKfC0RQcegWfjvynuhCwI y7BSXdXSPqqCwXriQahdlX2/06Uk3E0hUJJsUfn7Ec\neZGtjbhweNIKYnx4G/k0iC1bem1hALALXmLoGcm7HvGCehBbuptn6zMf5W3JxXMyWrY f/ak4AwD\nLlawlHVjmGpRcSAU9ri3g72N hQ h8O1s0f1L3qla2CFwrpw oYpogtCWmjiZijs3UeggU8wOfQ4\n84Q7P4PwZo1D0cs3eljIIDaBWDiCK2liWGgCK8B4vWCMnbX4tsdMIL5eWSrU96lYs8SyLjLGRfkv\nVCJTna03eRwgr5Jo7uyHJpGzipRYQeVR3DDXRnWrFFKFiqFnSlVWSpK3jMQ9CdUeeWfdIPQzJJ/2\nbUkwwDvXhO/h/yY9TvSFlLORv821YA2nnMZL4K1XnFnB3T9IcQ3JWzI4u44TzfjJtEzUu/zNH0g5\neqdclvpohowj3fI7nuc/RWe4q7VDCMvv9gtlyStw6bmb/FJHhb2FKZjUk DIIQUr4 hmUQCSORYM\nVeib1KlhYKKzVUli4CRQajLv7UVNIM10DYxr8RiTgWW72dd8Q25PQJBC6H3Oq5kOBN5qkuxsOPe1\n9o824v4FD7HaeNlgX EU9o7eKqUYbuKfa MgDV2J5hr4PadLp7WwSWou9O8s/5I2kerZ3P8dmjL6\nsk9hslijQOBmcnlVkXQDzn9H76fwG8wU04U/tC60y3GQfVrN5IRFbKbVsIksFO45ygyn/YTTXSFo\nBQJwKc7KCf8ImcYEdNHEBz6HPZkFdY3 y5qxrnaDi9iZkzsBX4K7i6NoA VlouqM20Gg ux/3Nx8\nOW9wrpMj/RygRMFd0qd6nOZ75h0KFSv/UeLFuXLxw6nX PQrUVY/iSOrQVGcSerqZaHNB/8Ym6ip\nxFc5m28BYJcvpV2/1CoKAV 5nDJEFuLoz4vFQmMmdfURB2lZnfRqiWMY0D4yITJH9QUEHhgvb9PV\n svC6Bmzeqsul3i3q zA9PapTpcCp34kFpA0ohnlTi7EYsi6sG4SLdL61JnuIGSxKEfqQczG4coX\n6dnJcDwxp30hbk/MS1iX0zzMmZaUWewHV3qo6VZfyTNGaqUsQTTVp9N3RF9e/3eLFKyBqNOS0Rxk\nfFf5QzuqSL0mDAHcsce5irtBnnHgAv3XNr95/LeR8MQq9l7Q8GpuE3kOUDljug7LwFQ9Zhn3iLVI\nn7QDUvsxXrjLHxHuHQWv3l/Q8B9mgorSmOfxtl1JAGsiNzi2RmWHhj2lyMsH3pAwmcnGrlO801W8\n3vupj Ai/3CTaToDL7Ypx/HLGcvqJZjffl4Xh1l9rYVyXa9ul/bL27yCfU9t fajVZ16eVttrHPR\nCwoiKg3BHQzwfdc6ye7lao2y7f8Smxj XQOj7s9CEToGI6wZbV1JiGwQrv0qfTk5Kb7yuczmo0BO\nJr1LlIHY/RE8AOi6KgifZyc73j/fPfMwMqweWjXOFhHlgKWy10loqZpTicx6tnRSQew/oymyi/cP\nADCv1jWsMuF/2gq7YoaxKiHY2/pwik/M4qkcaZQ0GncMjapFgFoOboHvkLfNPRZRLgdh9NV3P95U\n Z E2FnY6UirMrNtPJA1gtMgHzSvoj i/8w8CPaVPvBe pn3YaI/OByQxzllBZRZ18aSJA28y5t2\nkE8qwbAkB0cb0cAEW2VBf6g/zPgb34 4E JrwR1xviEt5eBZ 6 zncbPXUoh0tVODIEUH8vmWdpG\noBcBOSNDQBoLZ6cG4i82tzBw16yzIcUP8j00Iune40ahUiq5rC TfxSuh7kuDxCkzWsCrYG8wVDL\n3wZMcoQBBVcocMAqq3u4Mz3MWo1Qkm0uADQDCTEQgekFBrWcNT0n327WAlh4xmpWCxQrQnCuV/II\n/DhCXPkxUYH 9yQsId OFWqPxjfz7KDwQ opabK/xACnZ2yqA1Gp88mznDx5nb0UYKFhOwXyBMOf\nGEiYinCb8ivDiqx8N/eOQmhSw6fB/ytUh/kOdnCPoPOseFRVqrUPMCHTdRvWs2mrUa9QhzV6O21R\nNMB5abvFH6HYGZCBpxkh8AFIXykOQOw1y mwwE3TIjQeUAQ5D7UWCtlkDKRM8PowOu0/aj9oquKB\nzTXc62uqGot2pXhs600UlH3LrEto1SSiLJOBzj  g9UMNEqyWRIp0CzlUYiZ7ykV2Vh1K0BsX yy\nfkaCmfcB6SGwMYru3E9h96iJA6si8YY1p8hNrUwv4A6g/DbpiJVwUgFN2/Sd BEr2il8fU0L1T80\n gyn30nVlvuCm1 MLCKJZcUTA37RYqCBF4AnBEpxUUPyPgohxWOO2nxPfvDDfryYC1w6MdxzfTAx\nvuoSFDFRFbvvRztERvBAK91dCLd/RiwMR0wfY1A0LMDuQR6vzhlONW/E l8f7zKFkhz7Oo3PfBtv\ni/AuzzxphP2RDEwqsoNkdDe5lsmoWIyKY9YjxmKgMcxUnXT6CpwzKxlb4m5EsWQGMC90HNcOz7G5\nA4Khb/IE0UfEv1d5RLJeyOcWCTAXQjGnBbSLLYYXVLz60fH2l3fBEwfFMbEqbwuALi/HfRKTE802\n4sRA3A9VE4cg2AaMetRpBqxWkSxZeiFauceAsgHg1 gKJ6Die9az500wkSnzuvkwkg2FTxQ2vAU1\njWXgXGlA eesf24x yXsppakiIRONeMmxY3aYciEyItQrovYAZLxVHhgK/f8FbuWvDtBUytXBZcj\n96zbg8d x4sMFoQbupaR64Ej/ymohIb2V8wnyWXalLfIqyVSQ8zWMWoDLgWh6tupxht8/I101dUs\ngSaakwj95DeGqctNB8K2XPRPpFGtr/pUdaIMbWHquH961zDIYWBhOAsoyQ3OE1N6QJQqCYY3OvhG\npTAzexB4mONrrjFRT3Pr4e8nHS6dwgMyE/r2A4SfQlDm/hwcNrjGl91DxLQGoJv/KDcooLBeCGX3\nZsOdHbiATYqSs3Zgf1JHx1bJXX3Od8XwOBReNOPFJV5DtTIJofh0cjj2gHuYTcklMfUpznfRYjud\nYNWh4uEtm6JFdfE36 hBw8R4iyFQQLJJ8JTPQNHqLqZX/JyWRIpiNCUcITkUhc4 DO3LRPAJd9ua\nE6d04cg/xB4GT88GasWXLJS9QVJ0WfYeL6WEVeJAsboVEi4IgC/sM j YCFMSe/5VAX4 FzlwOri\n8OsUnAMoTWtCv2Np4zgDpQRfo fy97kyLHfFAsstczl5KaARtVOrxMPex861BwoN2xSDyk7sRB8I\nvkL077jh2Nhkuffix6zkvXawNIJh
+02-18 16:58:49.113 19263 19263 E socket  : ║ SocketServerUtils.creatServerSocket  (SocketServerUtils.java:172)
+02-18 16:58:49.113 19263 19263 E socket  : ╟────────────────────────────────────────────────────────────────────
+02-18 16:58:49.113 19263 19263 E socket  : ║ 开启服务
+02-18 16:58:49.113 19263 19263 E socket  : ╚════════════════════════════════════════════════════════════════════
+02-18 16:58:49.116 19263 19354 E socket  : ╔════════════════════════════════════════════════════════════════════
+02-18 16:58:49.116 19263 19354 E socket  : ║ Thread: io-pool-1-thread-0
+02-18 16:58:49.116 19263 19354 E socket  : ╟────────────────────────────────────────────────────────────────────
+02-18 16:58:49.117 19263 19354 E socket  : ║ SocketServerUtils$1.doInBackground  (SocketServerUtils.java:29)
+02-18 16:58:49.117 19263 19354 E socket  : ╟────────────────────────────────────────────────────────────────────
+02-18 16:58:49.117 19263 19354 E socket  : ║ doInBackground
+02-18 16:58:49.117 19263 19263 E readInputListenr: startInputListener
+02-18 16:58:49.117 19263 19354 E socket  : ╚════════════════════════════════════════════════════════════════════
+02-18 16:58:49.124 19263 19263 E trajectoryType: ╔════════════════════════════════════════════════════════════════════
+02-18 16:58:49.124 19263 19263 E trajectoryType: ║ Thread: main
+02-18 16:58:49.124 19263 19263 E trajectoryType: ╟────────────────────────────────────────────────────────────────────
+02-18 16:58:49.124 19263 19263 E trajectoryType: ║ PUserTrajectory.postEventReport  (PUserTrajectory.java:41)
+02-18 16:58:49.124 19263 19263 E trajectoryType: ╟────────────────────────────────────────────────────────────────────
+02-18 16:58:49.124 19263 19263 E trajectoryType: ║ 1
+02-18 16:58:49.124 19263 19263 E trajectoryType: ╚════════════════════════════════════════════════════════════════════
+02-18 16:58:49.128 19263 19263 E getSystemProperty: ╔════════════════════════════════════════════════════════════════════
+02-18 16:58:49.128 19263 19263 E getSystemProperty: ║ Thread: main
+02-18 16:58:49.128 19263 19263 E getSystemProperty: ╟────────────────────────────────────────────────────────────────────
+02-18 16:58:49.128 19263 19263 E getSystemProperty: ║ GeneralUtil.getSystemProperty  (GeneralUtil.java:1658)
+02-18 16:58:49.129 19263 19263 E getSystemProperty: ╟────────────────────────────────────────────────────────────────────
+02-18 16:58:49.129 19263 19263 E getSystemProperty: ║ ro.dalvik.vm.native.bridge = 0
+02-18 16:58:49.129 19263 19263 E getSystemProperty: ╚════════════════════════════════════════════════════════════════════
+02-18 16:58:49.129 19263 19360 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+02-18 16:58:51.222 19263 19263 E LOGLIMIT: process com.vmos.glb drop 116 lines, from time:1676719726 to time:1676719731, threshold:13050
+02-18 16:58:51.222 19263 19263 E DownloadGoogleRomView: onServiceConnected
+02-18 16:58:51.223 19263 19263 E DownloadGoogleRomView: onDownloadStateChanged newState:16
+02-18 16:58:58.064 19263 19331 W CrashReport: java.net.SocketTimeoutException: timeout
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.tencent.bugly.proguard.s.a(BUGLY:119)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.tencent.bugly.proguard.v.run(BUGLY:346)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.tencent.bugly.proguard.u$1.run(BUGLY:723)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at java.lang.Thread.run(Thread.java:929)
+02-18 16:58:58.064 19263 19331 W CrashReport: Caused by: java.net.SocketException: Socket closed
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+02-18 16:58:58.064 19263 19331 W CrashReport: 	... 14 more
+02-18 16:58:58.064 19263 19331 E CrashReport: [Upload] Failed to upload(1): Failed to upload for no response!
+02-18 16:58:58.065 19263 19331 W CrashReport: [Upload] Failed to upload last time, wait and try(2) again.
+02-18 16:58:58.865 19263 19294 E FirebaseInstanceId: Google Play services missing or without correct permission.
+02-18 16:58:58.928 19263 19294 E FirebaseInstanceId: Google Play services missing or without correct permission.
+02-18 16:58:59.966 19263 19263 I Hwaps   : APS: EventAnalyzed: initAPS: version is 10.1.0.18
+02-18 16:58:59.967 19263 19263 I hwaps   : HwAps: JNI_OnLoad
+--------- beginning of system
+02-18 16:59:00.093 19263 19263 W HwApsManager: HwApsManagerService, registerCallback, start !
+02-18 16:59:17.613 19263 19263 E PRETTYLOGGER: ╔════════════════════════════════════════════════════════════════════
+02-18 16:59:17.614 19263 19263 E PRETTYLOGGER: ║ Thread: main
+02-18 16:59:17.614 19263 19263 E PRETTYLOGGER: ╟────────────────────────────────────────────────────────────────────
+02-18 16:59:17.614 19263 19263 E PRETTYLOGGER: ║ KeyReceiver.onReceive  (KeyReceiver.java:41)
+02-18 16:59:17.614 19263 19263 E PRETTYLOGGER: ╟────────────────────────────────────────────────────────────────────
+02-18 16:59:17.614 19263 19263 E PRETTYLOGGER: ║ home action=android.intent.action.CLOSE_SYSTEM_DIALOGS
+02-18 16:59:17.614 19263 19263 E PRETTYLOGGER: ╚════════════════════════════════════════════════════════════════════
+02-18 16:59:17.635 19263 19263 I CrashReport-Native: Set native info: isAppForeground(false)
+02-18 16:59:17.710 19263 19294 E FirebaseInstanceId: Google Play services missing or without correct permission.
+02-18 16:59:18.033 19263 19318 E reader_network_resp: https://osservice.vmos.com/login/uuid/save?s=c69e8a04145d32c29ca0504fcf50bcad&k=eb759cd6d8e975ec29b999b743123721&auth_ver=2&n=1676719727360&u=12dc7bc85b7adb69&c=glb&v=100031&rv=0 POST http/1.1
+02-18 16:59:18.033 19263 19318 E reader_network_resp: timestamp: 1676719727366
+02-18 16:59:18.033 19263 19318 E reader_network_resp: HTTP FAILED: java.net.SocketTimeoutException: SSL handshake timed out
+02-18 16:59:18.033 19263 19318 E reader_network_resp:  
+02-18 16:59:18.035 19263 19317 E reader_network_resp: https://osservice.vmos.com/gather/trajectory/save?s=c69e8a04145d32c29ca0504fcf50bcad&k=eb759cd6d8e975ec29b999b743123721&auth_ver=2&n=1676719727360&u=12dc7bc85b7adb69&c=glb&v=100031&rv=0 POST http/1.1
+02-18 16:59:18.035 19263 19317 E reader_network_resp: timestamp: 1676719727366
+02-18 16:59:18.035 19263 19317 E reader_network_resp: HTTP FAILED: java.net.SocketTimeoutException: SSL handshake timed out
+02-18 16:59:18.035 19263 19317 E reader_network_resp:  
+02-18 16:59:18.218 19263 19350 E reader_network_resp: https://osservice.vmos.com/gather/trajectory/save?s=7c765cf3bbb9376c860ff01f11eb2075&k=eb759cd6d8e975ec29b999b743123721&auth_ver=2&n=1676719728036&u=12dc7bc85b7adb69&c=glb&v=100031&rv=0 POST http/1.1
+02-18 16:59:18.218 19263 19350 E reader_network_resp: timestamp: 1676719728039
+02-18 16:59:18.218 19263 19350 E reader_network_resp: HTTP FAILED: java.net.SocketTimeoutException: SSL handshake timed out
+02-18 16:59:18.218 19263 19350 E reader_network_resp:  
+02-18 16:59:19.298 19263 19360 E reader_network_resp: https://osservice.vmos.com/gather/trajectory/save?s=c626138bdb7b3155f19529fa28768c7b&k=eb759cd6d8e975ec29b999b743123721&auth_ver=2&n=1676719729128&u=12dc7bc85b7adb69&c=glb&v=100031&rv=0 POST http/1.1
+02-18 16:59:19.298 19263 19360 E reader_network_resp: timestamp: 1676719729130
+02-18 16:59:19.298 19263 19360 E reader_network_resp: HTTP FAILED: java.net.SocketTimeoutException: SSL handshake timed out
+02-18 16:59:19.298 19263 19360 E reader_network_resp:  
+02-18 16:59:19.298 19263 19352 E reader_network_resp: https://osservice.vmos.com/gather/apps/save?s=611218cc3767deedd20a62432cead692&k=eb759cd6d8e975ec29b999b743123721&auth_ver=2&n=1676719729108&u=12dc7bc85b7adb69&c=glb&v=100031&rv=0 POST http/1.1
+02-18 16:59:19.298 19263 19352 E reader_network_resp: timestamp: 1676719729111
+02-18 16:59:19.298 19263 19352 E reader_network_resp: HTTP FAILED: java.net.SocketTimeoutException: SSL handshake timed out
+02-18 16:59:19.298 19263 19352 E reader_network_resp:  
+02-18 16:59:19.299 19263 19361 E reader_network_resp: https://osservice.vmos.com/gather/trajectory/save?s=a83b59caf1554a43e5f2bcf51b55ddd7&k=eb759cd6d8e975ec29b999b743123721&auth_ver=2&n=1676719729133&u=12dc7bc85b7adb69&c=glb&v=100031&rv=0 POST http/1.1
+02-18 16:59:19.299 19263 19361 E reader_network_resp: timestamp: 1676719729136
+02-18 16:59:19.299 19263 19361 E reader_network_resp: HTTP FAILED: java.net.SocketTimeoutException: SSL handshake timed out
+02-18 16:59:19.299 19263 19361 E reader_network_resp:  
+02-18 16:59:19.336 19263 19362 E reader_network_resp: https://osservice.vmos.com/gather/trajectory/save?s=5e62a86296c14bb698d0b733c6c2f305&k=eb759cd6d8e975ec29b999b743123721&auth_ver=2&n=1676719729135&u=12dc7bc85b7adb69&c=glb&v=100031&rv=0 POST http/1.1
+02-18 16:59:19.336 19263 19362 E reader_network_resp: timestamp: 1676719729138
+02-18 16:59:19.336 19263 19362 E reader_network_resp: HTTP FAILED: java.net.SocketTimeoutException: SSL handshake timed out
+02-18 16:59:19.336 19263 19362 E reader_network_resp:  
+02-18 16:59:28.065 19263 19331 W CrashReport: [Upload] Use the back-up url at the last time: http://android.bugly.qq.com/rqd/async
